@@ -1,1 +1,1 @@
-# Innomatics-intership-hackathon
+# Innomatics-internship-hackathon
